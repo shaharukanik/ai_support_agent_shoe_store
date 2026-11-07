@@ -106,6 +106,6 @@ This workflow was reviewed and published to n8n's official public template libra
 
 ## Author
 
-**Shaharuk Anik** — AI Automation Specialist | Verified n8n Creator
+**Shaharuk Anik** — AI Automation Specialist | Verified n8n Creator | Building AI Agents & Workflow Automations | Helping Businesses Automate Processes | Open to Freelance
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaharukanik) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shaharukianik@gmail.com) [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://gorgeous-kilometer-192.notion.site/AI-Customer-Support-Sales-Agent-3fd8dcd3964c812ba8e9fbc26827768e)
